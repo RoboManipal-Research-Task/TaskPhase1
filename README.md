@@ -1,5 +1,3 @@
-Certainly! Here's the updated Read Me file with the version number incremented to 2.0:
-
 # RoboManipal Code of Conduct and Prohibited Plagiarism
 
 Welcome to RoboManipal! We're thrilled to have you as a member of our community. To ensure a positive and respectful environment for everyone, it's essential to understand and adhere to our Code of Conduct and the strict prohibition against plagiarism. Please read this document carefully and keep it in mind as you participate in RoboManipal activities.
