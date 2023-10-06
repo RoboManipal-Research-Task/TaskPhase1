@@ -1,4 +1,4 @@
-# TaskPhase Code of Conduct and Prohibited Plagiarism
+# TaskPhase Code of Conduct
 
 Welcome to TaskPhase! We're thrilled to have you as a member of our community. To ensure a positive and respectful environment for everyone, it's essential to understand and adhere to our Code of Conduct and the strict prohibition against plagiarism. Please read this document carefully and keep it in mind as you participate in TaskPhase activities.
 
